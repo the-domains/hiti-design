@@ -1,0 +1,28 @@
+name: Hiti design
+favicon: null
+layout_spectrum: 0.258635348174721
+typography_spectrum: 0.009786777896806598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.42049818369559944
+  lightness: 0.37338480981998146
+  saturation: 0.20338509208522737
+  rhythmicContrast: 0.1234479802660644
+purpose: []
